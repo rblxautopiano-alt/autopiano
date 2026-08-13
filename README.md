@@ -15,7 +15,7 @@ Click below to trigger an instant download of the executable:
 
 [![Download Now](https://img.shields.io/badge/⬇️%20CLICK%20HERE%20TO%20DOWNLOAD-INSTANT%20.EXE-success?style=for-the-badge&logo=roblox&logoColor=white)](https://github.com/rblxautopiano-alt/autopiano/releases/download/v0.1/RobloxPianoAutoplayer.zip)
 
-***Note:*** _sometimes your desired sheets wont showed up, you must close the app and restart._
+***Note:*** _To fix the issue where your desired sheets do not show up, close the app completely and open it again._
 
 ---
 
